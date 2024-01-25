@@ -1,2 +1,2 @@
-# Stegano_Ninja 
+# SteganoNinja 
 The Art of Data Hiding - writing tools using Python.
